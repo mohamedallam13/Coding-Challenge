@@ -1,7 +1,7 @@
 # Coding-Challenge
 A coding challenge webapp created with HTML, CSS and Vanilla JS. Well, not really a "coding challenge", rather a mock of the concept.
 
-![Product screenshot](./assets/images/screenshots/screenshot1.JPG)
+![Product screenshot](./assets/images/screenshots/screenshot1.png)
 
 ### Built With
 
@@ -48,20 +48,20 @@ Not Required.
 
 #### MCQs appearing in the middle, with timer to the left counting down and highscores button to the right
 
-![Questions View](./assets/images/screenshots/screenshot2.JPG)
+![Questions View](./assets/images/screenshots/screenshot2.png)
 
 #### User answers, and a timed comment appears below, vanishing after 2 seconds
 
-![User Answers](./assets/images/screenshots/screenshot3.JPG)
+![User Answers](./assets/images/screenshots/screenshot3.png)
 
 #### Quiz ends, user is prompted to enter initials to be added to the highscores table
 
-![Input Initials](./assets/images/screenshots/screenshot4.JPG)
+![Input Initials](./assets/images/screenshots/screenshot4.png)
 
 #### Highscores table
 
-![Highscores Table](./assets/images/screenshots/screenshot5.JPG)
+![Highscores Table](./assets/images/screenshots/screenshot5.png)
 
 #### User choosing to clear the table
 
-![Table cleared](./assets/images/screenshots/screenshot6.JPG)
+![Table cleared](./assets/images/screenshots/screenshot6.png)
