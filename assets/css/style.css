@@ -5,11 +5,12 @@
 #quiz-main {
     display: flex;
     justify-content: space-between;
+    align-content: stretch;
 }
 
 .main-container {
     width: 50%;
-    align-self: flex-end;
+    height: 500px;
     text-align: center;
 }
 
@@ -83,4 +84,15 @@ ol {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
